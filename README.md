@@ -16,4 +16,4 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: mail
 - 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: --> 
--->
+<!-- -->

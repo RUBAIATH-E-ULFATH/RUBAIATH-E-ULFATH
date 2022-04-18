@@ -8,9 +8,9 @@
 **RUBAIATH-E-ULFATH/RUBAIATH-E-ULFATH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Machine Learning based research
-- 🌱 I’m currently learning Data Science, Deep Learning, Artificial Intelligence
-- 👯 I’m looking to collaborate on ML & AL based researches in different disciplines.
+- 🔭 I’m currently working on Machine Learning, Deep Learning and Natural Language Processing based research
+- 🌱 I’m currently learning advanced and latest Data Science, Deep Learning, Artificial Intelligence related technologies
+- 👯 I’m looking to collaborate on ML & DL-based research in different disciplines.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about --> 
 - 📫 How to reach me: mail
